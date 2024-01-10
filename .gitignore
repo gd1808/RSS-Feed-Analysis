@@ -239,3 +239,4 @@ fabric.properties
 
 # Exclude notes input
 !/notes/input/Reviews.csv
+!/notes/input/Reviews.csv.zip
